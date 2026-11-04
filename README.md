@@ -2,7 +2,7 @@
 
 A beginner-friendly Excel project that cleans a bike buyers dataset and turns it into an interactive dashboard. It looks at **which customers bought a bike** and how that relates to income, commute distance, and age.
 
-![Dashboard preview](images/dashboard.jpg)
+![Dashboard preview](images/dashboard.JPG)
 
 ---
 
